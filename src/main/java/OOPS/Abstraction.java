@@ -30,4 +30,5 @@ class Test
           A r = new A();
           r.M1();
      }
+
 }
