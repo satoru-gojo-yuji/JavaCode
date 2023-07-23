@@ -1,10 +1,10 @@
-package OOPS;
+package OOPS.Abstraction;
 
 public abstract class Abstraction {
 
      abstract void M1();
 
-     int r ;
+    final  int r = 0;
      Abstraction()
      {
           System.out.println("Ab");
