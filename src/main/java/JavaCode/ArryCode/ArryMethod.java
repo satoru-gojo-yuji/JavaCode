@@ -1,4 +1,4 @@
-package JavaCode;
+package JavaCode.ArryCode;
 
 public class ArryMethod {
 
