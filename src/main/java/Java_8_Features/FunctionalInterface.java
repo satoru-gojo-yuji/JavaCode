@@ -11,6 +11,8 @@ public interface FunctionalInterface {
            FunctionalInterface t =()-> System.out.println("Hello");
            t.m1();
        }
+
+
    }
 
 
