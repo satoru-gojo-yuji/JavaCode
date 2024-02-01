@@ -1,4 +1,4 @@
-package Java_8_Features;
+package Java_8_Features.FunctionalIndterface;
 
 public interface FunctionalInterface {
 
