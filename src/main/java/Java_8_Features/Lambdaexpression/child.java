@@ -1,7 +1,5 @@
 package Java_8_Features.Lambdaexpression;
 
-
-
     interface  Ap
      {
         public void m1();
