@@ -11,6 +11,6 @@ public class S {
         String s =new String("hett");
          s.concat("fgrr");
 
-        System.out.println(s);
+        System.out.println(f);
     }
 }
