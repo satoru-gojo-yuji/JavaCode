@@ -9,6 +9,9 @@ public class Demo1 {
         Consumer<String> s =(name) -> System.out.println("Hello");
         s.accept("Abhi");
 
+        Consumer<Integer> f =i-> System.out.println("go");
+        f.accept(4);
+
         Consumer<Integer> s1 =(name1) -> System.out.println(name1*name1);
         s1.accept(20);
     }
